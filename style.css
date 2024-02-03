@@ -1,0 +1,51 @@
+body {
+    background-image: url('Homepage.png');
+   
+    background-repeat: no-repeat;
+    margin: 0;
+   
+}
+.form-body {
+   height: 700px;
+   width: 420px;
+   background-color: rgba(253, 199, 199, 0.3);
+   font-size: 1.7em;
+   margin: 50px 50px 50px 0;
+   padding: 100px;
+   border-radius: 8px;
+  
+      }
+input {
+    width: 350px;
+    height: 40px;
+    border-radius: 8px;
+    border-width: 0;
+}
+
+
+.bt {
+    background-color: rgb(30, 255, 0);
+    border: none;
+    font-size: 18px;
+    color: white;
+    width: 350px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.btn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    width: 350px;
+     height: 40px;
+     font-size: 18px;
+     border-color: rgb(30, 255, 0);;
+     gap: 8px;
+     border-radius: 8px;
+}
+.footer{
+    font-size: 20px;
+    margin-left: 35px;
+}
